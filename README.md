@@ -1,2 +1,2 @@
 # Linear_problem
-Project for a course (linear programming).
+Project for a university course (linear programming).
